@@ -1,13 +1,16 @@
 [
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "7f687a322e191812",
-        "key": "OP",
-        "expirydate": "15-06-2029"
-    }
+  {
+    "id": "7f687a322e191812",
+    "username": "op",
+    "password": "haha",
+    "expiresAt": "2028-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
 ]
