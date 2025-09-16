@@ -1,0 +1,13 @@
+[
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "7f687a322e191812",
+        "key": "OP",
+        "expirydate": "15-06-2029"
+    }
+]
